@@ -1,7 +1,7 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+title: About us
+subtitle: Royal Roofing, a Cornish based company providing top quality roofing solutions.
+description: With many years of experience in the industry, you are guaranteed to receive a 5 star service from us.
 featured_image: /images/demo/about.jpg
 ---
 
