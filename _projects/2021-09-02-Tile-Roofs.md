@@ -8,7 +8,7 @@ featured_image: '/images/tileroofs/image-1.png'
 
 ![](/images/tileroofs/image-1.png)
 
-## Demo content
+## Roof Tiles
 
 There are many advantages to choosing roof tiles in place of alternative options. 
 
