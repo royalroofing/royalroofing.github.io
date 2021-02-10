@@ -31,7 +31,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/Royal-Roofing-452044891826666'
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
