@@ -3,12 +3,12 @@ basic_settings:
   favicon_image: /images/favicon.ico
 
 header_settings:
-  logo_image: 
+  logo_image: /images/logo_header.png
   logo_width: 200
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Services'
       url: '/'
     - title: 'About'
       url: '/about'
