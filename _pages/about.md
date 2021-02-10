@@ -5,13 +5,13 @@ description: With many years of experience in the industry, you are guaranteed t
 featured_image: /images/about.png
 ---
 
-## Features
+## About us
 
 Royal Roofing is a Cornish based company that provides top quality roofing solutions throughout the whole of Cornwall.
 
 With many years of experience in the industry, you are guaranteed to receive a 5 star service from us. We specialise in slate & lead roof coverings but also pride ourselves in the attention to detail we give to all of our projects no matter how big or small.
 
-## Contact Us
+## Contact us
 
 If you’re in need of a reliable and competent roofing company for your next project, whether it be a small repair or full re-roof, please do give us a call and we would love to provide you with a free estimate!
 
