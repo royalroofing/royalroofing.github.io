@@ -1,8 +1,8 @@
 ---
 title: Contact
-subtitle: Personal comes with a built-in contact form that's free and easy to set up.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/contact.jpg
+subtitle: If you’re in need of a reliable and competent roofing company for your next project, whether it be a small repair or full re-roof, please do give us a call and we would love to provide you with a free estimate!.
+description: 
+featured_image: /images/contact.jpg
 ---
 
 {% include contact-form.html %}
