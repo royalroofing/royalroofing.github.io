@@ -5,4 +5,6 @@ description:
 featured_image: /images/contact.png
 ---
 
+{% include socials.html %}
+
 {% include contact-form.html %}
