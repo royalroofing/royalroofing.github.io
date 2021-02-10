@@ -16,7 +16,7 @@ You can enjoy peace of mind that man made roof tiles are impervious to rot and i
 
 They are considered to be environmentally friendly as they are usually made from earth minerals rather than chemicals and some old tiles can even be recycled for new roof projects.
 
-Many advantajes:
+Many advantages:
 
 * Environmentally friendly
 * Low maintenance and long lasting
