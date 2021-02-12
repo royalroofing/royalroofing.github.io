@@ -16,7 +16,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Royal Roofing, 32 Horsepool Road, Connor Downs, Cornwall, TR27 5DZ - (+44) 07733 880307.
+  footer_tagline: 'Royal Roofing, 32 Horsepool Road, Connor Downs, Cornwall, TR27 5DZ / (+44) 07733 880307.'
 
 hero_settings:
   overlay_opacity: 0.8
