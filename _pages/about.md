@@ -1,7 +1,7 @@
 ---
 title: About us
-subtitle: Royal Roofing, Providing top quality roofing solutions, throughout Cornwall. 
-description: Expert tradesmen local to you, ensuring your home recieves the Royal treatment it deserves. 
+subtitle: Royal Roofing, Expert tradesmen local to you, ensuring your home recieves the Royal treatment it deserves!
+description:
 featured_image: /images/about.png
 ---
 ## Our Story
