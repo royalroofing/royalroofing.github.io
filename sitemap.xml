@@ -7,37 +7,55 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://royal-roofing.co.uk/projects/emergency-roof-repair/</loc>
+    <loc>https://royal-roofing.co.uk/about</loc>
     <lastmod>2025-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://royal-roofing.co.uk/projects/flat-roofing/</loc>
+    <loc>https://royal-roofing.co.uk/contact</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://royal-roofing.co.uk/projects/scantle-slate-roofs/</loc>
-    <lastmod>2025-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://royal-roofing.co.uk/projects/delabole-slate-roofs/</loc>
-    <lastmod>2025-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://royal-roofing.co.uk/projects/velux-windows/</loc>
+    <loc>https://royal-roofing.co.uk/project/tile-roofs</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://royal-roofing.co.uk/projects/fascias-and-guttering/</loc>
+    <loc>https://royal-roofing.co.uk/project/grp-roofs</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://royal-roofing.co.uk/project/lead-work</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://royal-roofing.co.uk/project/slate</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://royal-roofing.co.uk/project/upvc</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://royal-roofing.co.uk/project/verticle</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://royal-roofing.co.uk/project/chimneys</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
